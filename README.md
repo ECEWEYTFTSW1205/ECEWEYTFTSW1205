@@ -12,4 +12,4 @@ What I actually care about is control and dynamic systems.
 `MATLAB/Simulink` `Python` `C/C++` `ROS/ROS2` `Siemens S7-1200 (PLC)` `SolidWorks` `ANSYS` `Fusion360` `NodeRed` `Ubuntu Linux` `Kali Linux` `Packet Tracer` `Proteus` `NI Multisim` `VSCode`
 
 ### 🕹️ When I'm not doing that
-I fix and mod game consoles — Nintendo, Xbox, PlayStation. Soldering, modchips, the occasional bricked board brought back from the dead. 
+I fix and mod game consoles: Nintendo, Xbox and PlayStation families. Soldering, modchips, the occasional bricked board brought back from the dead. 
