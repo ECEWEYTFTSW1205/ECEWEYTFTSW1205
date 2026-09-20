@@ -9,7 +9,7 @@ What I actually care about is control and dynamic systems.
 - Capstone project: autonomous strawberry harvesting cell — I'm on classification (YOLOv8) + transport (MiR250), talking to a PLC that also runs a UR3e for the pick.
 
 ### 🧰 Stack
-`MATLAB/Simulink` `Python` `C/C++` `ROS/ROS2` `Siemens S7-1200 (PLC)` `SolidWorks` `ANSYS` `Fusion360` `NodeRed` `Ubuntu Linux` `Kali Linux` `Packet Tracer` `Proteus` `NI Multisim` `VSCode`
+`MATLAB/Simulink` `Python` `C/C++` `ROS/ROS2` `Tia Portal - Siemens S7-1200 (PLC)` `SolidWorks` `ANSYS` `Fusion360` `NodeRed` `Ubuntu Linux` `Kali Linux` `Packet Tracer` `Proteus` `NI Multisim` `VSCode` `KiCad` `RoboDk` `URobots` 
 
 ### 🕹️ Personal Hobbie
 I fix and mod game consoles: Nintendo, Xbox and PlayStation families. Soldering, modchips, the occasional bricked board brought back from the dead. 
