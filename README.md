@@ -7,7 +7,7 @@ What I actually care about is control and dynamic systems.
 ### 🔭 Right now
 - Going through **Spacecraft Dynamics and Control** (CU Boulder) and **Applied Kalman Filtering** — repo has my notes + implementations as I go, not just certificates.
 - Concentration project: autonomous strawberry harvesting cell — I'm on classification (YOLOv8) + transport (MiR250), talking to a PLC that also runs a UR3e for the pick.
-- Cybersecurity OT: Industrial Cybersecurity Essentials by Rockwell Automation + Cisco
+- Cybersecurity OT: **Industrial Cybersecurity Essentials** by Rockwell Automation + Cisco
 
 ### 🧰 Stack
 `MATLAB/Simulink` `Python` `C/C++` `ROS/ROS2` `Tia Portal - Siemens S7-1200 (PLC)` `SolidWorks` `ANSYS` `Fusion360` `NodeRed` `Ubuntu Linux` `Kali Linux` `Packet Tracer` `Proteus` `NI Multisim` `VSCode` `KiCad` `RoboDk` `URobots` 
