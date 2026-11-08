@@ -1,6 +1,6 @@
 ## Hey, I'm Erick 👋
 
-Mechatronics Engineering student (Cyber-Physical Systems concentration) @ Tec de Monterrey, Querétaro. I like taking physical systems apart — on paper first (ODEs, linearization, state-space), then for real.
+Mechatronics Engineering student (Cyber-Physical Systems concentration) @ Tec de Monterrey, Querétaro. I like taking physical systems apart on paper first, then for real.
 
 What I actually care about is control and dynamic systems.
 
