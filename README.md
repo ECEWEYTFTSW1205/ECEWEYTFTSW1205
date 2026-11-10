@@ -12,7 +12,7 @@ What I actually care about is control and dynamic systems.
 
 **Embedded Systems & Electronics:**
 
-`C` (PIC18F4550) `KiCad`
+`C (PIC18F4550)` `KiCad`
 
 **Robotics & Automation:**
 
