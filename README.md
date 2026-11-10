@@ -6,7 +6,24 @@ What I actually care about is control and dynamic systems.
 
 
 ### 🧰 Stack
-`MATLAB/Simulink` `Python` `C/C++` `ROS/ROS2` `Tia Portal - Siemens S7-1200 (PLC)` `SolidWorks` `ANSYS` `Fusion360` `NodeRed` `Ubuntu Linux` `Kali Linux` `Packet Tracer` `Proteus` `NI Multisim` `VSCode` `KiCad` `RoboDk` `URobots` 
+
+**Control, modelado y simulación**
+`MATLAB/Simulink` `Python` `Proteus` `NI Multisim`
+
+**Sistemas embebidos y electrónica**
+`C` (PIC18F4550) `KiCad`
+
+**Robótica y automatización**
+`ROS/ROS2` `RoboDK` `Universal Robots` `Siemens TIA Portal (S7-1200)` `Node-RED`
+
+**Diseño mecánico y análisis**
+`SolidWorks` `Fusion 360` `ANSYS`
+
+**Redes y entorno de desarrollo**
+`Ubuntu Linux` `Kali Linux` `Packet Tracer` `VSCode`
+
+**📖 Aprendiendo**
+`C++` `Python` `STM32` `Git`
 
 ### 🕹️ Personal Hobbie
 I fix and mod game consoles: Nintendo, Xbox and PlayStation families. Soldering, modchips, the occasional bricked board brought back from the dead. 
