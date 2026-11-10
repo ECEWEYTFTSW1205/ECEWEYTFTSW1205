@@ -7,25 +7,27 @@ What I actually care about is control and dynamic systems.
 
 ### 🧰 Stack
 
-**Control, modelado y simulación**
+**Control, modelado y simulación:**
+
 `MATLAB/Simulink` `Python` `Proteus` `NI Multisim`
 
-**Sistemas embebidos y electrónica**
+**Sistemas embebidos y electrónica:**
+
 `C` (PIC18F4550) `KiCad`
 
-**Robótica y automatización**
+**Robótica y automatización:**
 `ROS/ROS2` `RoboDK` `Universal Robots` `Siemens TIA Portal (S7-1200)`
 
-**Protocolos industriales e IoT**
+**Protocolos industriales e IoT:**
 `Modbus TCP` `MQTT` `PROFINET` `Node-RED`
 
-**Diseño mecánico y análisis**
+**Diseño mecánico y análisis:**
 `SolidWorks` `Fusion 360` `ANSYS`
 
-**Redes y entorno de desarrollo**
+**Redes y entorno de desarrollo:**
 `Ubuntu Linux` `Kali Linux` `Packet Tracer` `VSCode`
 
-**📖 Aprendiendo**
+**📖 Aprendiendo:**
 `C++` `Python` `STM32` `Git`
 
 ### 🕹️ Personal Hobbie
