@@ -14,7 +14,10 @@ What I actually care about is control and dynamic systems.
 `C` (PIC18F4550) `KiCad`
 
 **Robótica y automatización**
-`ROS/ROS2` `RoboDK` `Universal Robots` `Siemens TIA Portal (S7-1200)` `Node-RED`
+`ROS/ROS2` `RoboDK` `Universal Robots` `Siemens TIA Portal (S7-1200)`
+
+**Protocolos industriales e IoT**
+`Modbus TCP` `MQTT` `PROFINET` `Node-RED`
 
 **Diseño mecánico y análisis**
 `SolidWorks` `Fusion 360` `ANSYS`
